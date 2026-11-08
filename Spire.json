@@ -1,7 +1,7 @@
 {
   "name": "Murder Drones Spire",
   "description": "Clean, midnight-purple aesthetic",
-  "version": "1",
+  "version": "2",
   "authors": [
     {
       "name": "NariRoaringStar"
@@ -309,7 +309,7 @@
   "spec": 2,
   "background": {
     "url": "https://i.imgur.com/Vp3aAQ2.jpeg",
-    "alpha": 0.4,
+    "alpha": 0.85,
     "size": "cover",
     "position": "center"
   }
